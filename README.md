@@ -5,11 +5,11 @@ it can also search through the pages for desired information. the pages are numb
 
 ## Prerequisite:
 
-<u>Node.js</u> should be installed.
+ [Node.js](https://nodejs.org/) installed on your machine.
 
 ## Installation:
  ```
-   1. git clone 
+   1. git clone https://github.com/Nyuraru/Data-table.git
    2. cd datatable
    3. npm install
  
